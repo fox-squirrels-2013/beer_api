@@ -13,6 +13,7 @@ gem 'geocoder'
 group :test, :development do
   gem 'rspec-rails'
   gem 'shoulda'
+  gem 'capybara'
 end
 
 # Gems used only for assets and not required
